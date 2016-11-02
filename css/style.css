@@ -1,0 +1,44 @@
+/*Globals*/
+#logo {clear: both;}
+ul{padding: 0;}
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 auto;
+}
+#logo {
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 20px;
+  margin: 20px;
+}
+/*Section to choose male or female*/
+.sex {margin: 10px;}
+.sex #male {
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 20px;
+  margin: 20px;
+}
+.sex #female {
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 20px;
+  margin: 20px;
+}
+/*Section to choose the astrological sign*/
+.signs {margin: 0 auto;max-width: 450px;}
+/*Section to make a payment*/
+.payment {margin: 10px;}
+#info {margin: 10px;}
+#code {margin: 20px;}
+#pay {margin: 20px;}
+/*Section to share the purchased names*/
+.share {margin: 10px;}
+#share{
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 20px;
+  margin: 20px;
+}
+#imageNames {display: none;}

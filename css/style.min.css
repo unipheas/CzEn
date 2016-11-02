@@ -1,0 +1,12 @@
+#logo{clear:both}
+ul{padding:0}
+ul li{list-style-type:none;display:inline-block;margin:0 auto}
+#logo{border:1px solid #000;border-radius:50%;padding:20px;margin:20px}
+.sex{margin:10px}
+.sex #female,.sex #male{border:1px solid #000;border-radius:50%;padding:20px;margin:20px}
+.signs{margin:0 auto;max-width:450px}
+#info,.payment{margin:10px}
+#code,#pay{margin:20px}
+.share{margin:10px}
+#share{border:1px solid #000;border-radius:50%;padding:20px;margin:20px}
+#imageNames{display:none}
